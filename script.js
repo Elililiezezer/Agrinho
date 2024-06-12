@@ -6,4 +6,7 @@ window.addEventListener("keydown",function(event){
         x = x + 10
         this.document.getElementById("object").style.left=x+"px"
     }
+    if ( tecla == "87"){
+        y = y - 10
+        this.document.getElementById("object").style.top=y+"px"
 })

@@ -15,4 +15,8 @@ window.addEventListener("keydown",function(event){
         y = y + 10
         this.document.getElementById("object").style.top=y+"px"
     }
+    if ( tecla == "65"){
+        x = x - 10
+        this.document.getElementById("object").style.left=x+"px"
+    }
 })

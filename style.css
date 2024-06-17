@@ -2,11 +2,22 @@
 margin: 0;
 padding: 0;
 }
+
 body{
+
+
 #object{
-        --object: url(sr297941f940baws3.png); 
-        width: 500px;
+    .objeto {
+        --imagem-fundo: url('img/sr297941f940baws3.png');
+    }
+    .div-com-imagem {
+        width: 300px;
         height: 300px;
-        background-repeat: no-repeat;
+        background-image: var(--imagem-fundo);
+        background-size: cover;
         background-position: center;
+        background-repeat: no-repeat;
+        border: 2px solid #000;
+        border-radius: 10px;
+    }
 }

@@ -10,11 +10,8 @@ body{
         background-position: center;
 
 img { 
-    width: 300px; /* Largura da imagem */
+    width: 30px; /* Largura da imagem */
    height: auto; /* Altura proporcional à largura */
-   border: 2px solid #000; /* Borda preta de 2 pixels */
-   border-radius: 10px; /* Bordas arredondadas */
-   margin: 20px; /* Margem ao redor da imagem */
    display: block; /* Faz a imagem se comportar como um bloco */
    }
 }

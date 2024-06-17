@@ -9,7 +9,7 @@ body{
         height: 300px;
         background-repeat: no-repeat;
         background-position: center;
-        
+
 img { 
     width: 300px; /* Largura da imagem */
    height: auto; /* Altura proporcional à largura */
@@ -17,5 +17,5 @@ img {
    border-radius: 10px; /* Bordas arredondadas */
    margin: 20px; /* Margem ao redor da imagem */
    display: block; /* Faz a imagem se comportar como um bloco */
-}
+   }
 }

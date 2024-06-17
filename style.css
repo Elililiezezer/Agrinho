@@ -4,7 +4,7 @@ padding: 0;
 }
 body{
 #object{
-        background-image: url(sr297941f940baws3.png); 
+        --object: url(sr297941f940baws3.png); 
         width: 500px;
         height: 300px;
         background-repeat: no-repeat;

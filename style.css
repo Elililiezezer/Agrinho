@@ -1,23 +1,16 @@
 *{
-margin: 0;
-padding: 0;
-}
-
-body{
-
-
-#object{
-    .objeto {
-        --imagem-fundo: url('img/sr297941f940baws3.png');
+    margin: 0;
+    padding: 0;
     }
-    .div-com-imagem {
-        width: 300px;
-        height: 300px;
-        background-image: var(--imagem-fundo);
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        border: 2px solid #000;
-        border-radius: 10px;
+    body{
+    background-color: #131313;
+    overflow: hidden;
     }
-}
+    #object{
+    background-color: rgb(10, 14, 240);
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+    filter: drop-shadow(0 0 15px white);
+    }

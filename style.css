@@ -6,6 +6,7 @@
         background-image: url('/img/TURVO.png');
     background-size: cover; /* Para ajustar a imagem ao tamanho da janela */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
+    background-position: center;
     background-color: #131313;
     overflow: hidden;
     }

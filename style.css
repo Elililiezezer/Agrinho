@@ -17,6 +17,7 @@
         background-color: #f0f0f0; /* Cor de fundo do container */
         border: 1px solid #ccc; /* Borda do container */
         border-radius: 8px; /* Borda arredondada */
+    }
    
     #object{
     background-position: center;

@@ -5,7 +5,6 @@
     body{
     background-image: url('/img/TURVO.jpg');
     background-position: center;
-    background-size: cover; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-position: center;
     background-color: #131313;

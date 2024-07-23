@@ -11,7 +11,7 @@
     }
 
     .texto-container {
-        width: 60%; /* Largura do container */
+        width: 80%; /* Largura do container */
         margin: 50px auto; /* muda a altura do container na página */
         padding: 20px; /* Espaçamento interno do container */
         background-color: #1a1616ab; /* Cor de fundo do container */

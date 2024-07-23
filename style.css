@@ -9,8 +9,8 @@
     background-color: #131313;
     overflow: hidden;
     }
-    #object{
 
+    #object{
     background-position: center;
     background-image: url('/img/helena.jpg');
     background-size: cover;

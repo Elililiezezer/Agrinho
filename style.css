@@ -17,6 +17,7 @@
         background-color: #016d379a; /* Cor de fundo do container */
         border: 1px solid #ccc; /* Borda do container */
         border-radius: 8px; /* Borda arredondada */
+        justify-content: flex-end
     }
    
     #object{

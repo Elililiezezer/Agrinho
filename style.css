@@ -17,6 +17,10 @@
         background-color: #016d379a; /* Cor de fundo do container */
         border: 1px solid #ccc; /* Borda do container */
         border-radius: 8px; /* Borda arredondada */
+        display: flex;
+            flex-direction: column; /* Direção da coluna para alinhar verticalmente */
+            justify-content: flex-end; /* Alinhar na parte de baixo */
+            align-items: center; /* Centralizar na horizontal */
     }
    
     #object{

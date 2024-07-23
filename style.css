@@ -15,6 +15,9 @@
         background-image: url('/img/helena-removebg-preview.png');
         background-size: cover;
         position: absolute;
+        width: 100px;
+        height: 100px;
+        margin: 100px;
         filter: drop-shadow(0 0 15px rgb(202, 224, 2));
         }
 

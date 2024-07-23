@@ -4,7 +4,7 @@
     }
     body{
         background-image: url('/img/TURVO.png');
-    background-size: 800px auto; /* 100% de largura e 100% de altura */
+    background-size: 800px 500px; /* 100% de largura e 100% de altura */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-position: center;
     background-color: #131313;

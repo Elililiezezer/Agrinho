@@ -18,13 +18,3 @@
         border: 1px solid #ccc; /* Borda do container */
         border-radius: 8px; /* Borda arredondada */
     }
-    #object{
-        background-position: center;
-        background-image: url('/img/helena-removebg-preview.png');
-        background-size: cover;
-        position: absolute;
-        width: 50px;
-        height: 50px;
-        margin: 10px;
-        filter: drop-shadow(0 0 15px rgb(202, 224, 2));
-        }

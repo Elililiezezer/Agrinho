@@ -10,6 +10,14 @@
     overflow: hidden;
     }
 
+    .texto-container {
+        width: 80%; /* Largura do container */
+        margin: 0 auto; /* Centraliza o container na página */
+        padding: 20px; /* Espaçamento interno do container */
+        background-color: #f0f0f0; /* Cor de fundo do container */
+        border: 1px solid #ccc; /* Borda do container */
+        border-radius: 8px; /* Borda arredondada */
+   
     #object{
     background-position: center;
     background-image: url('/img/helena-removebg-preview.png');

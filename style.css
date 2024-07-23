@@ -17,4 +17,9 @@
         background-color: #1a1616ab; /* Cor de fundo do container */
         border: 1px solid #ccc; /* Borda do container */
         border-radius: 8px; /* Borda arredondada */
+        .container img {
+            float: left; /* Flutua a imagem para a esquerda */
+            margin-right: 20px; /* Espaço entre a imagem e o texto */
+            border-radius: 8px;
+        }
     }

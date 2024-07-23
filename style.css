@@ -5,7 +5,7 @@
     body{
     background-image: url('/img/600px-Pelican_Town.png');
     background-position: center;
-    background-size: cover; /* ajusta o tamanho da imagem */
+    background-size: 2.880px 1500px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-position: center;
     background-color: #131313;

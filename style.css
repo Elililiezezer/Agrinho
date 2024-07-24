@@ -27,7 +27,6 @@
         }
 
         .botao-personalizado {
-            margin: 50px auto;
             background-color: #1a1616ab; /* Verde */
             border: none;
             color: white;
@@ -36,7 +35,7 @@
             text-decoration: none;
             display: inline-block;
             font-size: 16px;
-            margin: 4px 2px;
+            margin: 50px 200px;
             cursor: pointer;
             border-radius: 12px;
         }

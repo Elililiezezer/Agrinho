@@ -27,7 +27,7 @@
         }
 
         .botao-personalizado {
-            background-color: #054d07ad; /* Verde */
+            background-color: #1a1616ab; /* Verde */
             border: none;
             color: white;
             padding: 15px 32px;
@@ -41,6 +41,6 @@
         }
 
         .botao-personalizado:hover {
-            background-color: #054d07ad;
+            background-color: #1a1616ab;
         }
     

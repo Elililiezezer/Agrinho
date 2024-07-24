@@ -27,6 +27,7 @@
         }
 
         .botao-personalizado {
+            margin: 50px auto;
             background-color: #1a1616ab; /* Verde */
             border: none;
             color: white;
